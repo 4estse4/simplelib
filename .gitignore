@@ -25,5 +25,3 @@ _testmain.go
 *.test
 
 # Auto generated files by Swig:
-simplelib.go
-simplelib_wrap.cxx
